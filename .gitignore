@@ -51,3 +51,4 @@ build-iPhoneSimulator/
 
 #Vagrant
 /.vagrant
+/windows_2016_virtualbox.box
