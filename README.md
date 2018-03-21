@@ -13,5 +13,6 @@ git submodule add --name packer https://github.com/StefanScherer/packer-windows
 
 Packer, and its windows templates can be managed in a seprate git repo and updated within the vagrant windows deployment repo.
 
+
 when setting up in a new development environment you need to run:
 `git submodule update` you will then see your subdirectory pull down its contents.
